@@ -15,39 +15,39 @@ M0 is the modular stablecoin infrastructure. For builders who've outgrown one-si
   </thead>
   <tbody>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/evm-m-extensions">EVM Extensions</a></strong></td>
+      <td><strong><a href="https://github.com/m0-platform/evm-m-extensions">EVM Extensions</a></strong></td>
       <td>A modular framework for deploying EVM M0 Extensions, interoperable via M0 Swap Facility</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/solana-m-extensions">SVM Extensions</a></strong></td>
+      <td><strong><a href="https://github.com/m0-platform/solana-m-extensions">SVM Extensions</a></strong></td>
       <td>A modular framework for deploying SVM M0 Extensions, interoperable via M0 Swap Facility</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/m-portal">Portal V2</a></strong></td>
+      <td><strong><a href="https://github.com/m0-platform/m-portal-v2">Portal V2</a></strong></td>
       <td>M0 bridging portals utilizing LayerZero, Wormhole, and Hyperlane adapters</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/liquidity-delivery">Limit Order Protocol</a></strong></td>
+      <td><strong><a href="https://github.com/m0-platform/liquidity-delivery">Limit Order Protocol</a></strong></td>
       <td>M0 Intent-Based Liquidity Delivery Protocol</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/protocol">EVM V1 Protocol</a></strong></td>
+      <td><strong><a href="https://github.com/m0-platform/protocol">EVM V1 Protocol</a></strong></td>
       <td>An immutable M0 V1 Issuance Protocol</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/solana-m">SVM V1 Protocol</a></strong></td>
+      <td><strong><a href="https://github.com/m0-platform/solana-m">SVM V1 Protocol</a></strong></td>
       <td>Solana M0 V1 Issuance Protocol</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/ttg">TTG</a></strong></td>
+      <td><strong><a href="https://github.com/m0-platform/ttg">TTG</a></strong></td>
       <td>A novel, immutable two-token governance mechanism to optimize voting</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/wrapped-m-token">WrappedM</a></strong></td>
+      <td><strong><a href="https://github.com/m0-platform/wrapped-m-token">WrappedM</a></strong></td>
       <td>A non-rebasing <code>M</code> token wrapper for preserving and forwarding yield</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/common">Common</a></strong></td>
+      <td><strong><a href="https://github.com/m0-platform/common">Common</a></strong></td>
       <td>A set of common contracts and libraries used across other projects</td>
     </tr>
   </tbody>
@@ -57,7 +57,6 @@ M0 is the modular stablecoin infrastructure. For builders who've outgrown one-si
 
 <p align="center">
   <a href="https://www.m0.org/"><strong>Website</strong></a> ·
-  <a href="https://docs.m0.org/portal"><strong>Documentation</strong></a> ·
-  <a href="https://x.com/m0foundation"><strong>Twitter</strong></a> ·
-  <a href="https://governance.m0.org/proposals/"><strong>Governance Portal</strong></a>
+  <a href="https://docs.m0.org/"><strong>Documentation</strong></a> ·
+  <a href="https://x.com/m0"><strong>Twitter</strong></a> ·
 </p>
