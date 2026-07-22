@@ -58,5 +58,5 @@ M0 is the modular stablecoin infrastructure. For builders who've outgrown one-si
 <p align="center">
   <a href="https://www.m0.org/"><strong>Website</strong></a> ·
   <a href="https://docs.m0.org/"><strong>Documentation</strong></a> ·
-  <a href="https://x.com/m0"><strong>Twitter</strong></a> ·
+  <a href="https://x.com/m0"><strong>Twitter</strong></a>
 </p>
